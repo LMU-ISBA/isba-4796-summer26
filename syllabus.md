@@ -89,7 +89,7 @@ By the end of the course you will be able to:
 
 | # | Deliverable | What you submit | Due |
 |---|---|---|---|
-| 1 | AI interview | The Markdown file from your Claude Code interview | Wed Jul 8 |
+| 1 | [AI interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | The Markdown file from your Claude Code interview | Wed Jul 8 |
 | 2 | [AI Dev Workflow Tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) | Link to your deployed dashboard and your tutorial repo | Wed Jul 15 |
 | 3 | [Scrum Open Assessment](https://www.scrum.org/open-assessments/scrum-open) | Screenshot of your completed Scrum Open assessment from scrum.org | Wed Jul 22 |
 | 4 | Stakeholder meeting notes | Granola AI notes from your recorded stakeholder meeting, committed to the capstone repo and linked from your PRD (graded as part of the PRD) | Wed Aug 5 |
@@ -134,7 +134,7 @@ and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min.
 
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
-| 1 | Jul 1–6 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + self-discovery interview | none | AI interview (Wed Jul 8) |
+| 1 | Jul 1–6 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
 | 2 | Jul 8–14 | Scrum foundations; framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
 | 3 | Jul 15–21 | Scrum, continued; scope and feasibility; teams form | 1:1 (Week 2 or 3) | Scrum Open Assessment (Wed Jul 22); team preferences |
 | 4 | Jul 22–28 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
