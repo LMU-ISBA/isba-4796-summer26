@@ -1,10 +1,18 @@
 # Self-Discovery Interview — ISBA 4796
 
-**How to use this:** Open Claude Code in your tutorial repo, copy everything in the box
-below (from `You are conducting` down to the end), and paste it as your first message.
+**Before you start, you need Claude Code installed.** If you haven't set it up yet, do the
+tutorial pre-work first: Section 1 (accounts) and Section 2 through 2.4, "Claude Code"
+([pre-work guide](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/blob/main/v4/pre-work-setup.md)).
+
+**How to use this:** Open Claude Code in a folder on your computer, copy everything in the
+box below (from `You are conducting` down to the end), and paste it as your first message.
 Claude will interview you one question at a time. Answer honestly. This is for your own
-clarity, and it helps the instructor guide you. When you're done, Claude saves a
-Markdown file. Submit that file for Deliverable 1.
+clarity, and it helps the instructor guide you. When you're done, Claude saves a Markdown
+file. Submit that file for Deliverable 1.
+
+**No Claude Code yet?** Run the same prompt in the Claude web app at
+[claude.ai](https://claude.ai). It will show you the finished Markdown to copy into a file
+named `self-discovery-lastname-firstname.md`, which you then submit.
 
 **Tip: answer out loud with speech-to-text.** Talking is faster than typing, and it
 tends to surface more detail and context than you'd bother to type, which makes your

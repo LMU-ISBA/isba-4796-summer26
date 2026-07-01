@@ -100,6 +100,11 @@ Deliverables 1–3 are individual. Deliverables 4, 5, and 6 are team deliverable
 form at the end of Week 3. For each team deliverable, submit the link to it in your repo on
 Brightspace. Meeting participation is graded separately (see Grading and Meetings and participation).
 
+**Getting started (Week 1 order):** the AI interview (Deliverable 1) runs in Claude Code,
+which you install partway through the tutorial. Do the tutorial's setup section first (through
+"Claude Code"), run the interview, then finish the rest of the tutorial. If setup runs long,
+you can do the interview in the Claude web app instead.
+
 ## Grading
 
 | Component | Points |
