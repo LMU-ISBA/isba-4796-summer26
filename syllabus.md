@@ -49,8 +49,10 @@ deliverable on Brightspace, you submit the link to it in the repo.
 
 ## Required materials and tools
 
-There is no textbook. The course runs on a set of tools you set up in Week 1 (the tutorial
-walks you through each one):
+There is no textbook. Your one required reading is the free [Scrum Guide](https://scrumguides.org/)
+(about 15 pages), which you'll read in Week 2 to prepare for the Scrum Open assessment.
+
+The course runs on a set of tools you set up in Week 1 (the tutorial walks you through each one):
 
 - **[Claude Pro](https://claude.ai):** required, about $20/month, purchased by you (annual
   billing lowers it to about $17/month). This is the AI assistant
@@ -140,7 +142,7 @@ and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min.
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
 | 1 | Jul 1–6 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
-| 2 | Jul 8–14 | Scrum foundations; framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
+| 2 | Jul 8–14 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
 | 3 | Jul 15–21 | Scrum, continued; scope and feasibility; teams form | 1:1 (Week 2 or 3) | Scrum Open Assessment (Wed Jul 22); team preferences |
 | 4 | Jul 22–28 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
 | 5 | Jul 29–Aug 4 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
