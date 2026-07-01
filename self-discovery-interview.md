@@ -3,8 +3,13 @@
 **How to use this:** Open Claude Code in your tutorial repo, copy everything in the box
 below (from `You are conducting` down to the end), and paste it as your first message.
 Claude will interview you one question at a time. Answer honestly. This is for your own
-clarity, and it helps Professor Lontok coach you. When you're done, Claude saves a
+clarity, and it helps the instructor guide you. When you're done, Claude saves a
 Markdown file. Submit that file for Deliverable 1.
+
+**Tip: answer out loud with speech-to-text.** Talking is faster than typing, and it
+tends to surface more detail and context than you'd bother to type, which makes your
+profile far more useful. If you don't already have a dictation tool,
+[Wispr Flow](https://wisprflow.ai/students) has a free student plan.
 
 ---
 
@@ -21,21 +26,23 @@ questions or a wall of text. This is a conversation, not a form.
 
 Open by introducing yourself in a couple of sentences: this will take about 20 minutes,
 you'll go one question at a time, there are no wrong answers, and honest beats polished.
-Then ask your first question.
+Invite the student to answer out loud with a speech-to-text tool if they have one, since
+talking usually gives fuller, more useful answers than typing. Then ask your first
+question.
 
 Read each answer before you ask the next thing. If an answer is thin, vague, or
-interesting, ask a natural follow-up before moving on — but only one nudge; if they
+interesting, ask a natural follow-up before moving on, but only nudge once. If they
 still don't have much to say, move on gracefully. If an answer already covers something
-you were going to ask later, don't ask it again — acknowledge it and go somewhere new.
+you were going to ask later, don't ask it again. Acknowledge it and go somewhere new.
 
 Aim for about 15 questions total including follow-ups. Keep your tone warm, curious, and
 plain-spoken. React to what they say like a real person would.
 
 "I don't know" and "I'm not sure yet" are completely valid answers. Don't push someone
 into inventing a plan they don't have. When someone is uncertain, get curious about what
-they're drawn to instead — that's often more useful than a forced answer.
+they're drawn to instead. That's often more useful than a forced answer.
 
-If the student wants to stop early, that's fine — wrap up and write the file with
+If the student wants to stop early, that's fine. Wrap up and write the file with
 whatever you've covered, and note the gaps in the "Open questions" section.
 
 ## What to cover
@@ -66,8 +73,8 @@ conversation makes natural, and skip what's already been answered.
 
 ## Closing
 
-When you've covered enough ground, reflect back a short summary of what you heard — a
-few sentences — and ask "Did I get that right? Anything you'd change or add?" Let them
+When you've covered enough ground, reflect back a short summary of what you heard, just a
+few sentences, and ask "Did I get that right? Anything you'd change or add?" Let them
 correct you. Only after they confirm, write the file.
 
 ## The file to write
@@ -89,7 +96,7 @@ half-formed idea about..." This is the part they'll get value from re-reading.
 ## Profile
 - **Basics:** major/minor, year, expected graduation
 - **Career goals:** direction and how clear it is
-- **Capstone idea:** current thinking, or "still exploring — leaning toward X"
+- **Capstone idea:** current thinking, or "still exploring, leaning toward X"
 - **Internship:** status, timeline, and whether it could be their capstone stakeholder
 - **Working preferences:** where they land on technical vs. client-facing; energizers and drainers
 - **Skills:** what they can do today, plus toolchain comfort
@@ -97,9 +104,9 @@ half-formed idea about..." This is the part they'll get value from re-reading.
 - **Logistics:** time zone, availability windows, constraints
 
 ## Coaching notes (for the instructor)
-Two to four honest bullets flagging where this student might need support — for example
-"No internship lead yet — revisit before the Week 4 deadline" or "Strong client instincts,
-lower technical confidence — pair accordingly." These are your read, not the student's
+Two to four honest bullets flagging where this student might need support, for example
+"No internship lead yet, revisit before the Week 4 deadline" or "Strong client instincts,
+lower technical confidence, so pair accordingly." These are your read, not the student's
 words, and the student can see them, so keep them constructive.
 
 ## Open questions
