@@ -52,18 +52,25 @@ deliverable on Brightspace, you submit the link to it in the repo.
 There is no textbook. The course runs on a set of tools you set up in Week 1 (the tutorial
 walks you through each one):
 
-- **[Claude Pro](https://claude.ai):** required, about $20/month, purchased by you. This is
-  the AI assistant ([Claude Code](https://claude.com/claude-code)) you use throughout the course.
+- **[Claude Pro](https://claude.ai):** required, about $20/month, purchased by you (annual
+  billing lowers it to about $17/month). This is the AI assistant
+  ([Claude Code](https://claude.com/claude-code)) you use throughout the course.
 - **Free accounts:** [GitHub](https://github.com), a [scrum.org](https://www.scrum.org)
   account (for the [Scrum Open assessment](https://www.scrum.org/open-assessments/scrum-open)),
-  [Streamlit Community Cloud](https://streamlit.io/cloud), and [Granola](https://www.granola.ai)
-  (AI meeting notes).
-- **Free software:** [Cursor](https://cursor.com), [Git](https://git-scm.com),
-  [Python 3.11+](https://www.python.org), [Claude Code](https://claude.com/claude-code), and the
+  [Streamlit Community Cloud](https://streamlit.io/cloud), and
+  [Granola](https://www.granola.ai/students) (AI meeting notes).
+- **Software to install:** [Cursor](https://cursor.com), [Git](https://git-scm.com),
+  [Python 3.11+](https://www.python.org), [Claude Code](https://claude.com/claude-code),
+  [Wispr Flow](https://wisprflow.ai/students) (voice dictation), and the
   [Superpowers plugin](https://github.com/obra/superpowers).
 
-Budget for at least one month of Claude Pro; everything else is free. If cost is a barrier,
-talk to the instructor early.
+**Student perks:** claim the free [GitHub Student Developer Pack](https://education.github.com/pack)
+for extra tools and credits. The Granola and Wispr Flow links above are student sign-ups with
+discounted pricing. [Cursor](https://cursor.com/students) offers student credits through campus
+events. Claude Pro has no student discount, though annual billing saves about 15%.
+
+Budget for at least one month of Claude Pro; the other tools have free tiers. If cost is a
+barrier, talk to the instructor early.
 
 ## Learning outcomes
 
