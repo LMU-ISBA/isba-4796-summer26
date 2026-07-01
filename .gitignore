@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Course planning notes (not for distribution)
+planning/
+
+# macOS
+.DS_Store
