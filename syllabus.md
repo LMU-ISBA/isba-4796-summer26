@@ -7,12 +7,11 @@
 **Credit hours:** 1  
 **Format:** Fully asynchronous. There are no synchronous group-class meetings. You meet with the instructor individually and as a team on Zoom at times you book through the shared calendar. Plan to engage with the course several times a week: work through that week's module, submit the deliverable, and attend your booked meeting.  
 **Zoom:** https://lmula.zoom.us/my/lontok  
-**LMS:** Brightspace (all work is submitted here)
-
 ## Instructor
 
 **Professor Greg Lontok**  
 Email: gregory.lontok@lmu.edu (Microsoft Teams preferred for quick questions)  
+LinkedIn: https://www.linkedin.com/in/lontok  
 Office: Hilton 114  
 Book a 1:1 (30 min): https://calendly.com/greg-lontok/30min  
 Book a team meeting (45 min): https://calendly.com/greg-lontok/45min  
@@ -53,11 +52,15 @@ deliverable on Brightspace, you submit the link to it in the repo.
 There is no textbook. The course runs on a set of tools you set up in Week 1 (the tutorial
 walks you through each one):
 
-- **Claude Pro** — required, about $20/month, purchased by you. This is the AI assistant
-  (Claude Code) you use throughout the course.
-- **Free accounts:** GitHub, a scrum.org account (for the Scrum Open assessment), Streamlit
-  Community Cloud, and Granola (AI meeting notes).
-- **Free software:** Cursor, Git, Python 3.11+, Claude Code, and the Superpowers plugin.
+- **[Claude Pro](https://claude.ai):** required, about $20/month, purchased by you. This is
+  the AI assistant ([Claude Code](https://claude.com/claude-code)) you use throughout the course.
+- **Free accounts:** [GitHub](https://github.com), a [scrum.org](https://www.scrum.org)
+  account (for the [Scrum Open assessment](https://www.scrum.org/open-assessments/scrum-open)),
+  [Streamlit Community Cloud](https://streamlit.io/cloud), and [Granola](https://www.granola.ai)
+  (AI meeting notes).
+- **Free software:** [Cursor](https://cursor.com), [Git](https://git-scm.com),
+  [Python 3.11+](https://www.python.org), [Claude Code](https://claude.com/claude-code), and the
+  [Superpowers plugin](https://github.com/obra/superpowers).
 
 Budget for at least one month of Claude Pro; everything else is free. If cost is a barrier,
 talk to the instructor early.
@@ -110,7 +113,7 @@ C (73–76), C− (70–72), D (60–69), F (below 60).
 This is a 1-unit course. Per LMU's credit-hour policy, that means about 45 hours of work over
 the session: roughly 15 hours of instruction (async modules plus your scheduled meetings) and
 30 hours of your own work (the tutorial, reading, drafting, and building). Across the six weeks
-that averages **7–8 hours per week**, though it varies — Week 1's tutorial and the final PRD
+that averages **7–8 hours per week**, though it varies. Week 1's tutorial and the final PRD
 weeks run heavier. Credit-hour policy: https://academics.lmu.edu/aprc/lmucredithourpolicy/
 
 ## Schedule
@@ -137,14 +140,14 @@ By the end of Week 4 (Jul 28), secure a capstone internship or you'll be assigne
 ## How you access the course, interact, and get feedback
 
 Everything runs through Brightspace: weekly modules, assignment submissions, grades, and
-announcements. Log in regularly. The course is project-based — short async modules, hands-on
+announcements. Log in regularly. The course is project-based: short async modules, hands-on
 building in your repo, and one-on-one and team coaching. You interact with the instructor three
 ways: your weekly 1:1 or team meeting on Zoom, asynchronous messages by email or Microsoft
 Teams, and comments on your submitted work in Brightspace.
 
 You get feedback two ways: live in every scheduled meeting, and written feedback with a grade
 on each submitted deliverable **within one week** of the due date. Reach out any time between
-meetings if you're stuck — you don't have to wait for your booked slot.
+meetings if you're stuck. You don't have to wait for your booked slot.
 
 ## Student engagement
 
