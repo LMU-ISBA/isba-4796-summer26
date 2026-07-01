@@ -222,3 +222,6 @@ planning/
 
 # macOS
 .DS_Store
+
+# Superpowers internal design artifacts (not for distribution)
+docs/superpowers/
