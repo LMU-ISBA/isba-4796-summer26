@@ -125,8 +125,9 @@ weeks run heavier. Credit-hour policy: https://academics.lmu.edu/aprc/lmucredith
 
 ## Schedule
 
-Each week has an asynchronous instructional module to work through on your own time. Weeks
-2 and 3 add a 30-minute individual meeting; weeks 4 through 6 add a 45-minute team meeting.
+Each week has an asynchronous instructional module to work through on your own time. You have
+one 30-minute individual meeting, scheduled in Week 2 or Week 3 (your choice); weeks 4 through
+6 each add a 45-minute team meeting.
 
 **Book your meetings:** one-on-ones (Weeks 2–3) at https://calendly.com/greg-lontok/30min,
 and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min.
@@ -134,8 +135,8 @@ and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min.
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
 | 1 | Jul 1–6 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + self-discovery interview | none | AI interview (Wed Jul 8) |
-| 2 | Jul 8–14 | Scrum foundations; framing a problem worth solving | 1:1 | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
-| 3 | Jul 15–21 | Scrum, continued; scope and feasibility; teams form | 1:1 | Scrum Open Assessment (Wed Jul 22); team preferences |
+| 2 | Jul 8–14 | Scrum foundations; framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
+| 3 | Jul 15–21 | Scrum, continued; scope and feasibility; teams form | 1:1 (Week 2 or 3) | Scrum Open Assessment (Wed Jul 22); team preferences |
 | 4 | Jul 22–28 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
 | 5 | Jul 29–Aug 4 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
 | 6 | Aug 5–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Final PRD (Fri Aug 7); sprint review |
@@ -149,7 +150,7 @@ By the end of Week 4 (Jul 28), secure a capstone internship or you'll be assigne
 Everything runs through Brightspace: weekly modules, assignment submissions, grades, and
 announcements. Log in regularly. The course is project-based: short async modules, hands-on
 building in your repo, and one-on-one and team coaching. You interact with the instructor three
-ways: your weekly 1:1 or team meeting on Zoom, asynchronous messages by email or Microsoft
+ways: your scheduled 1:1 and team meetings on Zoom, asynchronous messages by email or Microsoft
 Teams, and comments on your submitted work in Brightspace.
 
 You get feedback two ways: live in every scheduled meeting, and written feedback with a grade
@@ -179,9 +180,10 @@ defeats the purpose of the course.
 ### Meetings and participation
 
 Your individual and team meetings are required and are where most of the coaching happens.
-One-on-ones (Weeks 2–3) run 30 minutes; book at https://calendly.com/greg-lontok/30min. Team
-meetings (Weeks 4–6) run 45 minutes; book at https://calendly.com/greg-lontok/45min. Four of these are graded on preparation: your two one-on-ones
-and your two team working meetings in Weeks 4 and 5. Come with the week's work ready to discuss.
+Your one-on-one (in Week 2 or Week 3, your choice) runs 30 minutes; book at
+https://calendly.com/greg-lontok/30min. Team meetings (Weeks 4–6) run 45 minutes; book at
+https://calendly.com/greg-lontok/45min. Three of these are graded on preparation: your
+one-on-one and your two team working meetings in Weeks 4 and 5. Come with the week's work ready to discuss.
 Missing one without prior notice earns no credit for that meeting; if you're ill or have an
 emergency, let the instructor know as soon as you can and you can reschedule without penalty.
 The Week 6 team meeting is your sprint review, graded as its own deliverable. If you need to
