@@ -2,7 +2,7 @@
 
 **Loyola Marymount University** · College of Business Administration · Information Systems & Business Analytics
 
-**Term:** Summer 2026, Session 2 (Jul 1 – Aug 7, 2026)  
+**Term:** Summer 2026, Session 2 (Jun 29 – Aug 7, 2026)  
 **Course & section:** ISBA 4796, Section 01  
 **Credit hours:** 1  
 **Format:** Fully asynchronous. There are no synchronous group-class meetings. You meet with the instructor individually and as a team on Zoom at times you book through the shared calendar. Plan to engage with the course several times a week: work through that week's module, submit the deliverable, and attend your booked meeting.  
@@ -33,7 +33,7 @@ for degree credit.
 ## Projects and stakeholders
 
 Every project has a real stakeholder behind it. You can bring your own by securing a capstone
-internship by Week 4 (Jul 22–28); your internship sponsor becomes the stakeholder you work
+internship by Week 4 (Jul 20–26); your internship sponsor becomes the stakeholder you work
 with. If you don't have an internship by then, the instructor assigns you a project and
 connects you with a stakeholder. Either way, that stakeholder is the person you meet with and
 record for the stakeholder meeting notes deliverable.
@@ -96,7 +96,7 @@ By the end of the course you will be able to:
 | 3 | [Scrum Open Assessment](https://www.scrum.org/open-assessments/scrum-open) | Screenshot of your completed Scrum Open assessment from scrum.org | Wed Jul 22 |
 | 4 | Stakeholder meeting notes | Granola AI notes from your recorded stakeholder meeting, committed to the capstone repo and linked from your PRD (graded as part of the PRD) | Wed Aug 5 |
 | 5 | PRD | Your team's product requirements document, in the capstone repo, linking to your stakeholder meeting notes | Fri Aug 7 |
-| 6 | Sprint review | A live Zoom sprint review where your team demonstrates the work completed, with the artifacts in the capstone repo | Week 6 (Aug 5–7) |
+| 6 | Sprint review | A live Zoom sprint review where your team demonstrates the work completed, with the artifacts in the capstone repo | Week 6 (Aug 3–7) |
 
 Deliverables 1–3 are individual. Deliverables 4, 5, and 6 are team deliverables once teams
 form at the end of Week 3. For each team deliverable, submit the link to it in your repo on
@@ -141,16 +141,16 @@ and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min.
 
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
-| 1 | Jul 1–6 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
-| 2 | Jul 8–14 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
-| 3 | Jul 15–21 | Scrum, continued; scope and feasibility; teams form | 1:1 (Week 2 or 3) | Scrum Open Assessment (Wed Jul 22); team preferences |
-| 4 | Jul 22–28 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
-| 5 | Jul 29–Aug 4 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
-| 6 | Aug 5–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Final PRD (Fri Aug 7); sprint review |
+| 1 | Jun 29–Jul 5 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
+| 2 | Jul 6–12 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 (Week 2 or 3) | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
+| 3 | Jul 13–19 | Scrum, continued; scope and feasibility; teams form | 1:1 (Week 2 or 3) | Scrum Open Assessment (Wed Jul 22); team preferences |
+| 4 | Jul 20–26 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
+| 5 | Jul 27–Aug 2 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
+| 6 | Aug 3–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Final PRD (Fri Aug 7); sprint review |
 
 Calendar notes: Fri Jul 3 is the Independence Day holiday (no class activity). Mon Jul 6
 is the last day to add or drop without a W. Fri Jul 24 is the last day to withdraw with a W.
-By the end of Week 4 (Jul 28), secure a capstone internship or you'll be assigned a project.
+By the end of Week 4 (Jul 26), secure a capstone internship or you'll be assigned a project.
 
 ## How you access the course, interact, and get feedback
 
