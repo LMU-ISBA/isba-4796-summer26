@@ -143,12 +143,12 @@ you submitted.
 
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
-| 1 | Jun 29–Jul 5 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
-| 2 | Jul 6–12 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 #1 | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
-| 3 | Jul 13–19 | Scrum, continued; scope and feasibility; teams form | none | Scrum Open Assessment (Wed Jul 22); team preferences |
-| 4 | Jul 20–26 | Discovery and stakeholder engagement; team kickoff | 1:1 #2 (tutorial walk-through) | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
-| 5 | Jul 27–Aug 2 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
-| 6 | Aug 3–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Final PRD (Fri Aug 7); sprint review |
+| 1 | Jun 29–Jul 5 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | none |
+| 2 | Jul 6–12 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 #1 | AI interview (Wed Jul 8) |
+| 3 | Jul 13–19 | Scrum, continued; scope and feasibility; teams form | none | AI Dev Workflow Tutorial and problem statement (Wed Jul 15) |
+| 4 | Jul 20–26 | Discovery and stakeholder engagement; team kickoff | 1:1 #2 (tutorial walk-through) | Scrum Open Assessment and team preferences (Wed Jul 22); internship secured or project assigned (by Sun Jul 26) |
+| 5 | Jul 27–Aug 2 | Writing the PRD; running the sprint | Team | Working agreement + PRD outline; shared repo set up with all teammates added (Wed Jul 29) |
+| 6 | Aug 3–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Stakeholder meeting notes and PRD draft (Wed Aug 5); final PRD (Fri Aug 7); sprint review |
 
 Calendar notes: Fri Jul 3 is the Independence Day holiday (no class activity). Mon Jul 6
 is the last day to add or drop without a W. Fri Jul 24 is the last day to withdraw with a W.
