@@ -133,20 +133,20 @@ weeks run heavier. Credit-hour policy: https://academics.lmu.edu/aprc/lmucredith
 ## Schedule
 
 Each week has an asynchronous instructional module to work through on your own time. You have
-two 30-minute individual meetings, one in Week 2 and one in Week 3 after the tutorial is due;
-weeks 4 through 6 each add a 45-minute team meeting.
+two 30-minute individual meetings, one in Week 2 and one in Week 4 after the tutorial is due;
+weeks 5 and 6 each add a 45-minute team meeting.
 
-**Book your meetings:** one-on-ones (Weeks 2–3) at https://calendly.com/greg-lontok/30min,
-and team meetings (Weeks 4–6) at https://calendly.com/greg-lontok/45min. Book the second 1:1
-for Thu Jul 16 or Fri Jul 17, after the tutorial due date, so the walk-through covers the work
+**Book your meetings:** one-on-ones (Weeks 2 and 4) at https://calendly.com/greg-lontok/30min,
+and team meetings (Weeks 5–6) at https://calendly.com/greg-lontok/45min. Book the second 1:1
+for the week of Jul 20–26, after the tutorial due date, so the walk-through covers the work
 you submitted.
 
 | Week | Dates | Module | Meeting | Due |
 |---|---|---|---|---|
 | 1 | Jun 29–Jul 5 | Onboarding: [AI dev workflow tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial/tree/main/v4) + [self-discovery interview](https://github.com/LMU-ISBA/isba-4796-summer26/blob/main/self-discovery-interview.md) | none | AI interview (Wed Jul 8) |
 | 2 | Jul 6–12 | Scrum foundations (read the [Scrum Guide](https://scrumguides.org/)); framing a problem worth solving | 1:1 #1 | AI Dev Workflow Tutorial (Wed Jul 15); problem statement |
-| 3 | Jul 13–19 | Scrum, continued; scope and feasibility; teams form | 1:1 #2 (tutorial walk-through; book Jul 16–17) | Scrum Open Assessment (Wed Jul 22); team preferences |
-| 4 | Jul 20–26 | Discovery and stakeholder engagement; team kickoff | Team | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
+| 3 | Jul 13–19 | Scrum, continued; scope and feasibility; teams form | none | Scrum Open Assessment (Wed Jul 22); team preferences |
+| 4 | Jul 20–26 | Discovery and stakeholder engagement; team kickoff | 1:1 #2 (tutorial walk-through) | Working agreement + PRD outline; shared repo set up (all teammates added); internship secured or project assigned |
 | 5 | Jul 27–Aug 2 | Writing the PRD; running the sprint | Team | Stakeholder meeting notes (Wed Aug 5); PRD draft |
 | 6 | Aug 3–7 | Sprint review and handoff to ISBA 4797 | Team (sprint review) | Final PRD (Fri Aug 7); sprint review |
 
@@ -189,14 +189,14 @@ defeats the purpose of the course.
 ### Meetings and participation
 
 Your individual and team meetings are required and are where most of the coaching happens.
-You have two 30-minute one-on-ones: one in Week 2, and one in Week 3 booked after the Jul 15
-tutorial submission. Book both at https://calendly.com/greg-lontok/30min. The second
+You have two 30-minute one-on-ones: one in Week 2, and one in Week 4 (Jul 20–26), after the
+Jul 15 tutorial submission. Book both at https://calendly.com/greg-lontok/30min. The second
 one-on-one is a live walk-through of your AI Dev Workflow Tutorial work: you show what you
 built and answer questions about the choices behind it. It checks that the reasoning is your
 own (see the AI policy) and is graded as part of the tutorial, not as meeting participation.
-Team meetings (Weeks 4–6) run 45 minutes; book at https://calendly.com/greg-lontok/45min.
-Three meetings are graded on preparation: your Week 2 one-on-one and your two team working
-meetings in Weeks 4 and 5. Come with the week's work ready to discuss.
+Team meetings (Weeks 5–6) run 45 minutes; book at https://calendly.com/greg-lontok/45min.
+Two meetings are graded on preparation: your Week 2 one-on-one and your Week 5 team working
+meeting. Come with the week's work ready to discuss.
 Missing one without prior notice earns no credit for that meeting; if you're ill or have an
 emergency, let the instructor know as soon as you can and you can reschedule without penalty.
 The Week 6 team meeting is your sprint review, graded as its own deliverable. If you need to
